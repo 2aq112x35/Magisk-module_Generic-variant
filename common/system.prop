@@ -1,0 +1,7 @@
+# 这个文件将被 resetprop 读取
+# 示例: 改变 dpi
+# ro.sf.lcd_density=320
+ro.bionic.cpu_variant=generic
+ro.bionic.2nd_cpu_variant=generic
+dalvik.vm.isa.arm64.variant=generic
+dalvik.vm.isa.arm.variant=generic

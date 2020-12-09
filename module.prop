@@ -1,0 +1,7 @@
+id=runOPT
+name=Generic-variant | 优化运行参数
+version=v1
+versionCode=1
+author=aaq112225
+description=将运行参数微架构优化的部分改成generic提升一点性能（老机型可能反效果）。set prop cpu_variant=generic to fix performance(old phone maybe bad than ago).
+minMagisk=19000
